@@ -1,1 +1,1 @@
-# digital stop watch made by C language
+# Digital stop watch made by C language
