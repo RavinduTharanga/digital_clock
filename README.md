@@ -1,1 +1,1 @@
-# digital_clock
+# digital stop watch made by C language
